@@ -1,0 +1,13 @@
+.bar-style{
+    width: 700px;
+    height: 100%;
+    padding: 10px 30px;
+    background-color: white;
+}
+.pie-style{
+    width: 400px;
+    padding: 10px 30px;
+    background-color: white;
+    height: 100%;
+    margin-left: 20px;
+}
